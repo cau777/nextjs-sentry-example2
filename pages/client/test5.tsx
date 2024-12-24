@@ -11,7 +11,6 @@ const Test5 = () => (
         } catch (error) {
           Sentry.captureException(error);
         } finally {
-          transaction.finish();
         }
       }}
     >
