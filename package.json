@@ -7,7 +7,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@sentry/nextjs": "8.33.0",
+    "@sentry/nextjs": "8.47.0",
     "@vercel/functions": "^1.5.2",
     "next": "latest",
     "react": "^18.2.0",
